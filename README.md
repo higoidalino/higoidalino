@@ -1,9 +1,9 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="[https://photos.google.com/photo/AF1QipOCE9RvG0KQBVx-Cc1laSE3VyrmRb8siJugm1iN](https://github.com/higoidalino/GitHub/blob/main/img/backgorund.png?raw=true)](https://github.com/higoidalino/GitHub/blob/main/img/backgorund.png)" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="[https://photos.google.com/photo/AF1QipOCE9RvG0KQBVx-Cc1laSE3VyrmRb8siJugm1iN](https://github.com/higoidalino/GitHub/blob/main/img/backgorund.png?raw=true)](https://photos.google.com/photo/AF1QipOCE9RvG0KQBVx-Cc1laSE3VyrmRb8siJugm1iN)" />
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> developer web passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
