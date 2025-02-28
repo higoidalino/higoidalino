@@ -1,4 +1,4 @@
-![Background](https://raw.githubusercontent.com/higoidalino/background-image/main/imagem.jpg)
+![Background](https://raw.githubusercontent.com/higoidalino/background-image/main/imagem.png)
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> developer web passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
